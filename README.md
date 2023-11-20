@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BridgelineTEK
 - 👀 I’m interested in all things TECHNOLOGY
-- 🌱 I’m currently learning Cypress.io, GitHub, NodeJS, Jira, Confluence
+- 🌱 I’m currently learning GitHub, Jira, Confluence, Python
 - 💞️ I’m looking to collaborate on DO-178 projects
 - 📫 How to reach me John.Christenson@BridgelineTEK.com
 
